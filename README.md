@@ -1,1 +1,2 @@
-# mehta-zsh-theme
+# MehtaZSH
+My macOS ZSH theme
